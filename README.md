@@ -1,0 +1,2 @@
+# Detection-of-Kyphosis-by-using-random-forest-model
+Here,for this project we explore the data of Kyphosis csv file and build a random forest model which helps the detection of Kyphosis.Here,also the result of random forest model is compared with decision tree.  Library/package used:Pandas,NumPy,Matplotlib,seaborn,scikit- learn,DecisionTreeClassifier,RandomForestClassifier,train_test_split,confusion_matrix,classification_report
